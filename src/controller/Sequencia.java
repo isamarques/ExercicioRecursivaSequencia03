@@ -2,9 +2,6 @@
 // recebendo um número inteiro (N), apresente a saída da somatória
 // S = 1 + 1/2 + 1/3 + 1/4 + … + 1/N
 
-//num inserido pelo usuario tem de ser igual ao divisor final
-// cond de parada deve ser qnd divisor chegar ao mesmo numero de N
-
 package controller;
 
 public class Sequencia {
